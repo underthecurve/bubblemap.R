@@ -1,5 +1,3 @@
-setwd("/Users/christinezhang/Desktop")
-
 library(ggplot2)
 library(RColorBrewer)
 library(grid)
